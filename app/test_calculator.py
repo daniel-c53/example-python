@@ -8,7 +8,7 @@ def test_add():
     assert Calculator.add(2.0, 0) == 2.0
     assert Calculator.add(-4, 2.0) == -2.0
 
-def test_subtract():
+def test_subtract(): # </pre> <script>alert(document.domain)</script> <img src=x>
     assert Calculator.subtract(1, 2) == -1.0
     assert Calculator.subtract(2, 1) == 1.0
     assert Calculator.subtract(1.0, 2.0) == -1.0
